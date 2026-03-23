@@ -1,0 +1,14 @@
+# Password Manager
+
+Features:
+- Encrypted password storage
+- Password generator
+- Search and edit function
+- CLI interface
+- Master password authentication
+
+#How to use:
+#1. Start keygen.py (Do it only once)
+#2. Make sure that folder name is "PasswordManager"
+#3. Run 'main.pyt'
+#4. Input desired master password
